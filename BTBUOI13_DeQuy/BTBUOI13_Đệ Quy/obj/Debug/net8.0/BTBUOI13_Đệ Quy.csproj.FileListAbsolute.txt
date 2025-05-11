@@ -1,0 +1,14 @@
+E:\kiet06nguyen\học\Cấu trức dữ liệu , giải thuật\2. Thuật toán\0. Kho bài\Ôn thi\BTBUOI13_DeQuy\BTBUOI13_Đệ Quy\bin\Debug\net8.0\BTBUOI13_Đệ Quy.exe
+E:\kiet06nguyen\học\Cấu trức dữ liệu , giải thuật\2. Thuật toán\0. Kho bài\Ôn thi\BTBUOI13_DeQuy\BTBUOI13_Đệ Quy\bin\Debug\net8.0\BTBUOI13_Đệ Quy.deps.json
+E:\kiet06nguyen\học\Cấu trức dữ liệu , giải thuật\2. Thuật toán\0. Kho bài\Ôn thi\BTBUOI13_DeQuy\BTBUOI13_Đệ Quy\bin\Debug\net8.0\BTBUOI13_Đệ Quy.runtimeconfig.json
+E:\kiet06nguyen\học\Cấu trức dữ liệu , giải thuật\2. Thuật toán\0. Kho bài\Ôn thi\BTBUOI13_DeQuy\BTBUOI13_Đệ Quy\bin\Debug\net8.0\BTBUOI13_Đệ Quy.dll
+E:\kiet06nguyen\học\Cấu trức dữ liệu , giải thuật\2. Thuật toán\0. Kho bài\Ôn thi\BTBUOI13_DeQuy\BTBUOI13_Đệ Quy\bin\Debug\net8.0\BTBUOI13_Đệ Quy.pdb
+E:\kiet06nguyen\học\Cấu trức dữ liệu , giải thuật\2. Thuật toán\0. Kho bài\Ôn thi\BTBUOI13_DeQuy\BTBUOI13_Đệ Quy\obj\Debug\net8.0\BTBUOI13_Đệ Quy.GeneratedMSBuildEditorConfig.editorconfig
+E:\kiet06nguyen\học\Cấu trức dữ liệu , giải thuật\2. Thuật toán\0. Kho bài\Ôn thi\BTBUOI13_DeQuy\BTBUOI13_Đệ Quy\obj\Debug\net8.0\BTBUOI13_Đệ Quy.AssemblyInfoInputs.cache
+E:\kiet06nguyen\học\Cấu trức dữ liệu , giải thuật\2. Thuật toán\0. Kho bài\Ôn thi\BTBUOI13_DeQuy\BTBUOI13_Đệ Quy\obj\Debug\net8.0\BTBUOI13_Đệ Quy.AssemblyInfo.cs
+E:\kiet06nguyen\học\Cấu trức dữ liệu , giải thuật\2. Thuật toán\0. Kho bài\Ôn thi\BTBUOI13_DeQuy\BTBUOI13_Đệ Quy\obj\Debug\net8.0\BTBUOI13_Đệ Quy.csproj.CoreCompileInputs.cache
+E:\kiet06nguyen\học\Cấu trức dữ liệu , giải thuật\2. Thuật toán\0. Kho bài\Ôn thi\BTBUOI13_DeQuy\BTBUOI13_Đệ Quy\obj\Debug\net8.0\BTBUOI13_Đệ Quy.dll
+E:\kiet06nguyen\học\Cấu trức dữ liệu , giải thuật\2. Thuật toán\0. Kho bài\Ôn thi\BTBUOI13_DeQuy\BTBUOI13_Đệ Quy\obj\Debug\net8.0\refint\BTBUOI13_Đệ Quy.dll
+E:\kiet06nguyen\học\Cấu trức dữ liệu , giải thuật\2. Thuật toán\0. Kho bài\Ôn thi\BTBUOI13_DeQuy\BTBUOI13_Đệ Quy\obj\Debug\net8.0\BTBUOI13_Đệ Quy.pdb
+E:\kiet06nguyen\học\Cấu trức dữ liệu , giải thuật\2. Thuật toán\0. Kho bài\Ôn thi\BTBUOI13_DeQuy\BTBUOI13_Đệ Quy\obj\Debug\net8.0\BTBUOI13_Đệ Quy.genruntimeconfig.cache
+E:\kiet06nguyen\học\Cấu trức dữ liệu , giải thuật\2. Thuật toán\0. Kho bài\Ôn thi\BTBUOI13_DeQuy\BTBUOI13_Đệ Quy\obj\Debug\net8.0\ref\BTBUOI13_Đệ Quy.dll
